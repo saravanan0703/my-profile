@@ -23,7 +23,7 @@ const Footer = () => {
           <FaXTwitter />
         </a>
       </div>
-      <p className="footer-copy">© Copyright 2025 Santhosh Kumar</p>
+      <p className="footer-copy">© Copyright 2026 Santhosh Kumar</p>
     </footer>
   );
 };
